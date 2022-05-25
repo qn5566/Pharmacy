@@ -19,6 +19,9 @@ email - sohotguys@gmail.com
 
 ![Recyclerview](/data/001.png) ![GoogleMap](/data/002.png)
 
+### Google Play
+APP - <a href="https://play.google.com/store/apps/details?id=tw.goodjob.askfacemaskapp">download</a>
+
 ### 特色
 - 使用ViewBinding做面向開發
 - filter和groupBy的使用

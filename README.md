@@ -1,3 +1,6 @@
+### Google Play
+APP - <a href="https://play.google.com/store/apps/details?id=tw.goodjob.askfacemaskapp">download</a>
+
 ### 前言
 COVID-19 來襲 <br>
 導致大家都缺口罩，為了幫助大家方便尋找附近的口罩
@@ -18,9 +21,6 @@ email - sohotguys@gmail.com
 ### 作品展示
 
 ![Recyclerview](/data/001.png) ![GoogleMap](/data/002.png)
-
-### Google Play
-APP - <a href="https://play.google.com/store/apps/details?id=tw.goodjob.askfacemaskapp">download</a>
 
 ### 特色
 - 使用ViewBinding做面向開發
